@@ -1,0 +1,2 @@
+# StudentCourseManagement
+Java oriented project
